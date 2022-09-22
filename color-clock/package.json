@@ -1,0 +1,24 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "a clock that changes color every second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/olasrum/react-hooks-npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olasrum/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/olasrum/react-hooks-npm-lab#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.0.1"
+  }
+}
